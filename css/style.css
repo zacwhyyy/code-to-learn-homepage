@@ -1,0 +1,15 @@
+.text-grey {
+	color: #aaa;
+}
+
+a, a:hover, button {
+	text-decoration: none !important;
+}
+
+.full-width {
+	width: 100% !important;
+}
+
+.credit {
+	font-size: 13px;
+}
