@@ -9,7 +9,7 @@ Inspired by Jennifer Dewalt's [180 websites in 180 days](http://jenniferdewalt.c
 * Perfect is the enemy of good. I will not be afraid of making mistakes.
 * I will ask for help when I need it.
 
-### The Projects
+## The Projects
 
 You can follow the projects [on the web](http://limzhiyang.com/codetolearn/)
 
@@ -27,7 +27,7 @@ You can follow the projects [on the web](http://limzhiyang.com/codetolearn/)
 7. **To Do List** - Keeps track of the tasks that you want to achieve daily.
   - [website](http://limzhiyang.com/codetolearn/7-todo) | [Github](https://github.com/zacwhyyy/to-do-list)
   
-### Let's Get in Touch!
+## Let's Get in Touch!
 **Email** 
 - [zhiyang.designer@gmail.com](zhiyang.designer@gmail.com)
 
