@@ -30,7 +30,9 @@ You can follow the projects [on the web](http://limzhiyang.com/codetolearn/)
 ### Let's Get in Touch!
 **Email** 
 - [zhiyang.designer@gmail.com](zhiyang.designer@gmail.com)
+
 **Website** 
 - [limzhiyang.com](http://limzhiyang.com/)
+
 **Twitter** 
 - Follow me [@zacwhyyy](https://twitter.com/zacwhyyy)
